@@ -1,0 +1,2 @@
+pnpm commitlint --config  commitlint.config.ts --edit ${1}
+
